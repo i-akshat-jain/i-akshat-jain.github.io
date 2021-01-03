@@ -36,7 +36,7 @@
             }
         ]
     },
-    "Interests": [{
+    "interests": [{
             "name": "Machine Learning",
             "keywords": []
         },
@@ -135,7 +135,7 @@
             ]
         }
     ],
-    "achivements": [{
+    "awards": [{
             "title": "Software Engineering Virtual Internship at JPMorgan Chase & Co",
             "date": "08/2020-09/2020",
             "State": "Virtual",
