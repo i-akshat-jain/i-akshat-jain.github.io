@@ -1,169 +1,181 @@
 {
-  "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "basics": {
+        "name": "Akshat Jain",
+        "label": "Student",
+        "picture": "https://i-akshat-jain.github.io/images/WhatsApp Image 2020-07-26 at 7.05.50 PM.jpeg",
+        "email": "akshatjain1502@gmail.com",
+        "phone": "9024053862",
+        "website": "https://mmaluhia.github.io",
+        "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at JECRC University. I expect to graduate in Spring, 2022.",
+        "location": {
+            "address": "",
+            "postalCode": "302018",
+            "city": "Jaipur",
+            "countryCode": "IN",
+            "region": "Rajasthan"
+        },
+        "profiles": [{
+                "network": "github",
+                "username": "Akshat-Jain",
+                "url": "https://github.com/i-akshat-jain"
+            },
+            {
+                "network": "linkedin",
+                "username": "Akshat Jain",
+                "url": "https://www.linkedin.com/in/i-akshat-jain/"
+            },
+            {
+                "network": "twitter",
+                "username": "Akshat Jain",
+                "url": "https://twitter.com/i_akshat_jain"
+            },
+            {
+                "network": "instagram",
+                "username": "i_akshat_jain_",
+                "url": "https://www.instagram.com/i_akshat_jain_/"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+    "Interests": [{
+            "name": "Machine Learning",
+            "keywords": []
+        },
+        {
+            "name": "Data Science",
+            "keywords": []
+        },
+        {
+            "name": "Artificial Intelligence",
+            "keywords": []
+        },
+        {
+            "name": "AR/VR",
+            "keywords": []
+        },
+        {
+            "name": "Computer Vision",
+            "keywords": []
+        }
+    ],
+    "skills": [{
+            "name": "Languages and Frameworks",
+            "level": "",
+            "keywords": [
+                "C",
+                "C++",
+                "HTML",
+                "CSS",
+                "Python",
+                "Linux"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "Windows",
+                "Kali/Parrot Linux",
+                "Git/GitHub",
+                "Tensorflow",
+                "TI LaunchPad"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "JECRC University, Jaipur, Rajasthan",
+        "area": "Computer Science (expected Spring, 2022)",
+        "studyType": "B.Tech.",
+        "startDate": "2018-08-01",
+        "endDate": "Present",
+        "gpa": "7.87",
+        "courses": []
+    }],
+    "work": [{
+            "company": "Airtel X Labs",
+            "position": "OCR Research Internsip",
+            "website": "https://www.airtel.in/careers/airtelxlabs/",
+            "startDate": "2020-11-26",
+            "endDate": "Present",
+            "summary": "Covering an OCR model",
+            "highlights": [
+                "With the help of researxch papers building a new nodel with a greater amount od accuracy"
+            ]
+        },
+        {
+            "company": "Verzeo",
+            "position": " Summer Training & Machine Learning Internship",
+            "website": "https://www.verzeo.in/",
+            "startDate": "2020-05-15",
+            "endDate": "2020-08-15",
+            "summary": "Learned and applied the skills on a project.",
+            "highlights": [
+                "Maintain, update, and oversee official college newspaper website",
+                "Drive, design and build student-community projects for UH Manoa"
+            ]
+        },
+        {
+            "company": "TechnoLegends",
+            "position": "Ethical Hacking Tranie",
+            "website": "http://www.hawaii.edu/its/",
+            "startDate": "2019-05-10",
+            "endDate": "2019-09-19",
+            "summary": "",
+            "highlights": [
+                "Workeds an intern for a firm. This Traning/Internship enlightened me with the knowledge of Cyber Security and many more technologies like Linux and networking fundamentals.",
+                "Worked on live projects with hands-on practice that helped me in understanding the depths of this subject."
+            ]
+        }
+    ],
+    "ACHIEVEMENTS": [{
+            "title": "Software Engineering Virtual Internship at JPMorgan Chase & Co",
+            "date": "08/2020-09/2020",
+            "State": "Virtual",
+            "summary": "Software Engineering Virtual Internship Experience sponsored by JP, Morgan Chase, & Inside Sherpa. Program Deliverers �Interface with a Stock Price Data Feed �Use JP Morgan framework & tools �Display data visually for traders."
+        },
+        {
+            "title": "Data Analytics Virtual Experience Program at Quantium",
+            "date": "08/2020-09/2020",
+            "State": "Virtual",
+            "summary": "Experimentation and uplift testing in companies data and delivering, highly valued data analytics and insights to help the business make strategic decisions."
+        }
+    ],
+    "Volunteer, Positions & RESPONSIBILITIES": [{
+            "organization": "Shrimad Rajchandra Mission Dharampur",
+            "website": "https://www.srmd.org/en-IN/",
+            "position": "Volunteer",
+            "startDate": "2019-06-01",
+            "endDate": "Present",
+            "summary": "Lead developer for weather sensing project",
+            "highlights": [
+                "Design firmware for distributed weather sensor network",
+                "Maintain custom data collection and storage infrastructure"
+            ]
+        },
+        {
+            "organization": "JU Makerspace",
+            "website": "",
+            "position": "Social Media and Outreach Head",
+            "startDate": "2020-01-01",
+            "endDate": "Present",
+            "summary": "JUMakrspace is a student-driven makerspace at JECEC University where we create and innovate with similar interests of people. JUMakerspace is India's first student driven makerspace which the aim of sparking innovation among society.",
+            "highlights": [
+                "Organized some insightful sessions for the freshmen at JECRC University this was a 14 day workshop for 1st year students.My role is to handle all the Social Media platforms of the community and facilitating with companies for more reach to the community and members."
+            ]
+        },
+        {
+            "organization": "AIESEC",
+            "website": "https://aiesec.org/",
+            "position": "Team Leader OGV Jaipur",
+            "startDate": "2019-07-01",
+            "endDate": "2020-07-01",
+            "summary": "Team Leader for International Exchanges",
+            "highlights": [
+                "My job role included, facilitating International exchanges and building International Relationships for the organization. I also learned the quality of leadership, being the team leader of my department, we came 1st in a national level competition ( vXPDF )."
+            ]
+        }
+    ],
+    "references": [{
+        "name": "Available upon request",
+        "reference": ""
+    }]
 }
