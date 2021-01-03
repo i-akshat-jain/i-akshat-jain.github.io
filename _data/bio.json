@@ -5,7 +5,7 @@
         "picture": "https://i-akshat-jain.github.io/images/Akshat(2).png",
         "email": "akshatjain1502@gmail.com",
         "phone": "9024053862",
-        "website": "https://mmaluhia.github.io",
+        "website": "https://i-akshat-jain.github.io/",
         "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at JECRC University. I expect to graduate in Spring, 2022.",
         "location": {
             "address": "",
@@ -76,8 +76,7 @@
                 "Windows",
                 "Kali/Parrot Linux",
                 "Git/GitHub",
-                "Tensorflow",
-                "TI LaunchPad"
+                "Tensorflow"
             ]
         }
     ],
@@ -89,7 +88,17 @@
         "endDate": "Present",
         "gpa": "7.87",
         "courses": []
-    }],
+    },
+     {
+        "institution": "St. Xaviers Sen. Sec. School, Jaipur, Rajasthan",
+        "area": "10+2",
+        "studyType": "High School",
+        "startDate": "2006-08-01",
+        "endDate": "2018-07-01",
+        "gpa": "",
+        "courses": []
+    }
+                 ],
     "work": [{
             "company": "Airtel X Labs",
             "position": "OCR Research Internsip",
@@ -116,7 +125,7 @@
         {
             "company": "TechnoLegends",
             "position": "Ethical Hacking Tranie",
-            "website": "http://www.hawaii.edu/its/",
+            "website": "",
             "startDate": "2019-05-10",
             "endDate": "2019-09-19",
             "summary": "",
@@ -126,7 +135,7 @@
             ]
         }
     ],
-    "ACHIEVEMENTS": [{
+    "achivements": [{
             "title": "Software Engineering Virtual Internship at JPMorgan Chase & Co",
             "date": "08/2020-09/2020",
             "State": "Virtual",
@@ -139,7 +148,7 @@
             "summary": "Experimentation and uplift testing in companies data and delivering, highly valued data analytics and insights to help the business make strategic decisions."
         }
     ],
-    "Volunteer, Positions & RESPONSIBILITIES": [{
+    "volunteer": [{
             "organization": "Shrimad Rajchandra Mission Dharampur",
             "website": "https://www.srmd.org/en-IN/",
             "position": "Volunteer",
