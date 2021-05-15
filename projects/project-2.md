@@ -20,4 +20,4 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
  
 Sudoku Solver AR is an augmented reality Sudoku solver. It captures video using a camera, finds Sudoku puzzles in the video, and then displays answers to those puzzles in such a way that they look like they are part of the original scene.
 
-Source: <a href="https://github.com/i-akshat-jain/AI-Car---Pedestrian-Tracking"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/i-akshat-jain/AI-Car---Pedestrian-Tracking"><i class="large github icon"></i>Sudoku Solver</a>
