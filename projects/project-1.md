@@ -34,4 +34,5 @@ Think about it – if you could integrate a vehicle detection system in a traffi
 
 Us humans can easily detect and recognize objects from complex scenes in a flash. Translating that thought process to a machine, however, requires us to learn the art of object detection using computer vision algorithms.
 
-You can learn more at the (https://github.com/i-akshat-jain/AI-Car---Pedestrian-Tracking).
+Source: <a href="https://github.com/i-akshat-jain/AI-Car---Pedestrian-Tracking"><i class="large github icon"></i>AI-Car-&-Pedestrian-Detection</a>
+
