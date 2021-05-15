@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/download.jpg
+image: images/gaadi.jpg
 title: AI Car and Pedestrian Detection
 permalink: projects/AI_Detection
 # All dates must be YYYY-MM-DD format!
